@@ -1,0 +1,361 @@
+combo,combo_size,segment,n,top_770000_n,top_770000_rate,avg_prob,median_prob
+job + marital + education + loan_house + loan_personal + marketing_potential,6,job=management | marital=single | education=tertiary | loan_house=no | loan_personal=no | marketing_potential=high,20,20,1.0,0.6814611887150293,0.6706486858430655
+job + marital + education + preferred_contact + loan_house + loan_personal + marketing_potential,7,job=management | marital=single | education=tertiary | preferred_contact=cellular | loan_house=no | loan_personal=no | marketing_potential=high,20,20,1.0,0.6814611887150293,0.6706486858430655
+job + marital + loan_house + loan_personal + marketing_potential,5,job=management | marital=single | loan_house=no | loan_personal=no | marketing_potential=high,23,23,1.0,0.6778740674139694,0.6720214177372829
+job + marital + preferred_contact + loan_house + loan_personal + marketing_potential,6,job=management | marital=single | preferred_contact=cellular | loan_house=no | loan_personal=no | marketing_potential=high,23,23,1.0,0.6778740674139694,0.6720214177372829
+job + marital + education + loan_house + marketing_potential,5,job=management | marital=single | education=tertiary | loan_house=no | marketing_potential=high,21,21,1.0,0.6740973403089425,0.6692759539488481
+job + marital + education + preferred_contact + loan_house + marketing_potential,6,job=management | marital=single | education=tertiary | preferred_contact=cellular | loan_house=no | marketing_potential=high,21,21,1.0,0.6740973403089425,0.6692759539488481
+job + marital + loan_house + marketing_potential,4,job=management | marital=single | loan_house=no | marketing_potential=high,24,24,1.0,0.6715801634461877,0.6706486858430655
+job + marital + preferred_contact + loan_house + marketing_potential,5,job=management | marital=single | preferred_contact=cellular | loan_house=no | marketing_potential=high,24,24,1.0,0.6715801634461877,0.6706486858430655
+marital + education + preferred_contact + loan_house + loan_personal + marketing_potential,6,marital=single | education=tertiary | preferred_contact=cellular | loan_house=no | loan_personal=no | marketing_potential=high,41,41,1.0,0.6665915509167224,0.6587389787840116
+marital + education + loan_house + loan_personal + marketing_potential,5,marital=single | education=tertiary | loan_house=no | loan_personal=no | marketing_potential=high,42,42,1.0,0.6660037372700909,0.6584679317853885
+marital + education + preferred_contact + loan_house + marketing_potential,5,marital=single | education=tertiary | preferred_contact=cellular | loan_house=no | marketing_potential=high,42,42,1.0,0.6632636657088767,0.6584679317853885
+marital + education + loan_house + marketing_potential,4,marital=single | education=tertiary | loan_house=no | marketing_potential=high,43,43,1.0,0.6627669148263029,0.6581968847867655
+job + education + loan_house + loan_personal + marketing_potential,5,job=management | education=tertiary | loan_house=no | loan_personal=no | marketing_potential=high,41,41,1.0,0.6519966994440759,0.6441658528160867
+job + education + preferred_contact + loan_house + loan_personal + marketing_potential,6,job=management | education=tertiary | preferred_contact=cellular | loan_house=no | loan_personal=no | marketing_potential=high,41,41,1.0,0.6519966994440759,0.6441658528160867
+job + loan_house + loan_personal + marketing_potential,4,job=management | loan_house=no | loan_personal=no | marketing_potential=high,47,47,1.0,0.6507285727752133,0.644681772404418
+job + preferred_contact + loan_house + loan_personal + marketing_potential,5,job=management | preferred_contact=cellular | loan_house=no | loan_personal=no | marketing_potential=high,47,47,1.0,0.6507285727752133,0.644681772404418
+job + marital + loan_personal + marketing_potential,4,job=management | marital=single | loan_personal=no | marketing_potential=high,28,28,1.0,0.6494558288458883,0.6613962517233689
+job + marital + preferred_contact + loan_personal + marketing_potential,5,job=management | marital=single | preferred_contact=cellular | loan_personal=no | marketing_potential=high,28,28,1.0,0.6494558288458883,0.6613962517233689
+job + marital + education + loan_personal + marketing_potential,5,job=management | marital=single | education=tertiary | loan_personal=no | marketing_potential=high,25,25,1.0,0.6489153372585663,0.6608144844549851
+job + marital + education + preferred_contact + loan_personal + marketing_potential,6,job=management | marital=single | education=tertiary | preferred_contact=cellular | loan_personal=no | marketing_potential=high,25,25,1.0,0.6489153372585663,0.6608144844549851
+education + preferred_contact + loan_house + loan_personal + marketing_potential,5,education=tertiary | preferred_contact=cellular | loan_house=no | loan_personal=no | marketing_potential=high,76,76,1.0,0.6465363635487846,0.6409199635397961
+education + loan_house + loan_personal + marketing_potential,4,education=tertiary | loan_house=no | loan_personal=no | marketing_potential=high,77,77,1.0,0.6464761949021537,0.6412304938973382
+job + marital + marketing_potential,3,job=management | marital=single | marketing_potential=high,29,29,1.0,0.6452270199955888,0.6608144844549851
+job + marital + preferred_contact + marketing_potential,4,job=management | marital=single | preferred_contact=cellular | marketing_potential=high,29,29,1.0,0.6452270199955888,0.6608144844549851
+job + marital + education + marketing_potential,4,job=management | marital=single | education=tertiary | marketing_potential=high,26,26,1.0,0.6442193770635141,0.6597767316194983
+job + marital + education + preferred_contact + marketing_potential,5,job=management | marital=single | education=tertiary | preferred_contact=cellular | marketing_potential=high,26,26,1.0,0.6442193770635141,0.6597767316194983
+job + education + loan_house + marketing_potential,4,job=management | education=tertiary | loan_house=no | marketing_potential=high,43,43,1.0,0.643980905007125,0.6412304938973382
+job + education + preferred_contact + loan_house + marketing_potential,5,job=management | education=tertiary | preferred_contact=cellular | loan_house=no | marketing_potential=high,43,43,1.0,0.643980905007125,0.6412304938973382
+education + preferred_contact + loan_house + marketing_potential,4,education=tertiary | preferred_contact=cellular | loan_house=no | marketing_potential=high,78,78,1.0,0.6422574085616269,0.6396163626799539
+education + loan_house + marketing_potential,3,education=tertiary | loan_house=no | marketing_potential=high,79,79,1.0,0.6422529271590518,0.6406094331822539
+job + loan_house + marketing_potential,3,job=management | loan_house=no | marketing_potential=high,50,50,1.0,0.6398362267062274,0.6426981733567125
+job + preferred_contact + loan_house + marketing_potential,4,job=management | preferred_contact=cellular | loan_house=no | marketing_potential=high,50,50,1.0,0.6398362267062274,0.6426981733567125
+marital + education + loan_personal + marketing_potential,4,marital=single | education=tertiary | loan_personal=no | marketing_potential=high,52,52,1.0,0.6379241823951944,0.6418487589648894
+marital + education + preferred_contact + loan_personal + marketing_potential,5,marital=single | education=tertiary | preferred_contact=cellular | loan_personal=no | marketing_potential=high,51,51,1.0,0.6378461589567042,0.6417941401715764
+marital + preferred_contact + loan_house + loan_personal + marketing_potential,5,marital=single | preferred_contact=cellular | loan_house=no | loan_personal=no | marketing_potential=high,64,64,1.0,0.6367889084441418,0.6396163626799539
+marital + loan_house + loan_personal + marketing_potential,4,marital=single | loan_house=no | loan_personal=no | marketing_potential=high,66,66,1.0,0.6332053527223112,0.6396163626799539
+marital + preferred_contact + loan_house + marketing_potential,4,marital=single | preferred_contact=cellular | loan_house=no | marketing_potential=high,67,67,1.0,0.631134457149285,0.6377426363033739
+marital + education + marketing_potential,3,marital=single | education=tertiary | marketing_potential=high,54,54,1.0,0.6295647014174699,0.6412017866769152
+marital + education + preferred_contact + marketing_potential,4,marital=single | education=tertiary | preferred_contact=cellular | marketing_potential=high,53,53,1.0,0.6293318962034938,0.6406094331822539
+marital + loan_house + marketing_potential,3,marital=single | loan_house=no | marketing_potential=high,69,69,1.0,0.62787060533695,0.6377426363033739
+job + marital + education + loan_house + loan_personal + marketing_potential,6,job=management | marital=married | education=tertiary | loan_house=no | loan_personal=no | marketing_potential=high,19,19,1.0,0.6206604090518685,0.6227931082403598
+job + marital + education + preferred_contact + loan_house + loan_personal + marketing_potential,7,job=management | marital=married | education=tertiary | preferred_contact=cellular | loan_house=no | loan_personal=no | marketing_potential=high,19,19,1.0,0.6206604090518685,0.6227931082403598
+job + loan_personal + marketing_potential,3,job=management | loan_personal=no | marketing_potential=high,60,60,1.0,0.6198718337023316,0.637167689638156
+job + preferred_contact + loan_personal + marketing_potential,4,job=management | preferred_contact=cellular | loan_personal=no | marketing_potential=high,60,60,1.0,0.6198718337023316,0.637167689638156
+marital + education + loan_house + loan_personal + marketing_potential,5,marital=married | education=tertiary | loan_house=no | loan_personal=no | marketing_potential=high,32,32,1.0,0.6188942529963117,0.6248409199932369
+marital + education + preferred_contact + loan_house + loan_personal + marketing_potential,6,marital=married | education=tertiary | preferred_contact=cellular | loan_house=no | loan_personal=no | marketing_potential=high,32,32,1.0,0.6188942529963117,0.6248409199932369
+job + education + loan_personal + marketing_potential,4,job=management | education=tertiary | loan_personal=no | marketing_potential=high,54,54,1.0,0.6174061440539255,0.6362133203844678
+job + education + preferred_contact + loan_personal + marketing_potential,5,job=management | education=tertiary | preferred_contact=cellular | loan_personal=no | marketing_potential=high,54,54,1.0,0.6174061440539255,0.6362133203844678
+job + marital + loan_house + loan_personal + marketing_potential,5,job=management | marital=married | loan_house=no | loan_personal=no | marketing_potential=high,21,21,1.0,0.6161502568679845,0.6227931082403598
+job + marital + preferred_contact + loan_house + loan_personal + marketing_potential,6,job=management | marital=married | preferred_contact=cellular | loan_house=no | loan_personal=no | marketing_potential=high,21,21,1.0,0.6161502568679845,0.6227931082403598
+education + loan_personal + marketing_potential,3,education=tertiary | loan_personal=no | marketing_potential=high,101,101,1.0,0.6155344763368417,0.6276957130210308
+education + preferred_contact + loan_personal + marketing_potential,4,education=tertiary | preferred_contact=cellular | loan_personal=no | marketing_potential=high,100,100,1.0,0.615270787322628,0.6273411168318832
+marital + education + loan_house + marketing_potential,4,marital=married | education=tertiary | loan_house=no | marketing_potential=high,33,33,1.0,0.613245756418001,0.6238948371030105
+marital + education + preferred_contact + loan_house + marketing_potential,5,marital=married | education=tertiary | preferred_contact=cellular | loan_house=no | marketing_potential=high,33,33,1.0,0.613245756418001,0.6238948371030105
+job + marital + education + loan_house + marketing_potential,5,job=management | marital=married | education=tertiary | loan_house=no | marketing_potential=high,20,20,1.0,0.611252081894878,0.6206230781512707
+job + marital + education + preferred_contact + loan_house + marketing_potential,6,job=management | marital=married | education=tertiary | preferred_contact=cellular | loan_house=no | marketing_potential=high,20,20,1.0,0.611252081894878,0.6206230781512707
+job + preferred_contact + loan_house + loan_personal + marketing_potential,5,job=technician | preferred_contact=cellular | loan_house=no | loan_personal=no | marketing_potential=high,29,29,1.0,0.6073100291714474,0.5895778080086393
+preferred_contact + loan_house + loan_personal + marketing_potential,4,preferred_contact=cellular | loan_house=no | loan_personal=no | marketing_potential=high,163,163,1.0,0.6041521876568624,0.6031380130671412
+job + loan_house + loan_personal + marketing_potential,4,job=technician | loan_house=no | loan_personal=no | marketing_potential=high,30,30,1.0,0.6041263352618368,0.5864344053990578
+job + preferred_contact + loan_house + marketing_potential,4,job=technician | preferred_contact=cellular | loan_house=no | marketing_potential=high,30,30,1.0,0.6014953068934706,0.5864344053990578
+job + marital + loan_house + marketing_potential,4,job=management | marital=married | loan_house=no | marketing_potential=high,23,23,1.0,0.60086536682247,0.6184530480621817
+job + marital + preferred_contact + loan_house + marketing_potential,5,job=management | marital=married | preferred_contact=cellular | loan_house=no | marketing_potential=high,23,23,1.0,0.60086536682247,0.6184530480621817
+job + preferred_contact + marketing_potential,3,job=management | preferred_contact=cellular | marketing_potential=high,66,66,1.0,0.5998445909386835,0.6293534621009744
+loan_house + loan_personal + marketing_potential,3,loan_house=no | loan_personal=no | marketing_potential=high,172,172,1.0,0.5994706613530895,0.6014778741726357
+marital + preferred_contact + loan_personal + marketing_potential,4,marital=single | preferred_contact=cellular | loan_personal=no | marketing_potential=high,84,84,1.0,0.598733500042219,0.6160842598609683
+preferred_contact + loan_house + marketing_potential,3,preferred_contact=cellular | loan_house=no | marketing_potential=high,170,170,1.0,0.5986284832189254,0.6014778741726357
+job + loan_house + marketing_potential,3,job=technician | loan_house=no | marketing_potential=high,31,31,1.0,0.5986018844737824,0.5832910027894762
+job + education + preferred_contact + marketing_potential,4,job=management | education=tertiary | preferred_contact=cellular | marketing_potential=high,59,59,1.0,0.5981205183381036,0.6276957130210308
+job + preferred_contact + loan_house + loan_personal + marketing_potential,5,job=retired | preferred_contact=cellular | loan_house=no | loan_personal=no | marketing_potential=high,24,24,1.0,0.5976723847465851,0.5862049794759756
+education + preferred_contact + marketing_potential,3,education=tertiary | preferred_contact=cellular | marketing_potential=high,108,108,1.0,0.5973487982663185,0.6216400174350833
+marital + loan_personal + marketing_potential,3,marital=single | loan_personal=no | marketing_potential=high,86,86,1.0,0.596868338869696,0.6160842598609683
+job + marketing_potential,2,job=management | marketing_potential=high,67,67,1.0,0.5962836277725106,0.6276957130210308
+education + marketing_potential,2,education=tertiary | marketing_potential=high,110,110,1.0,0.5956075786302337,0.6216400174350833
+loan_house + marketing_potential,2,loan_house=no | marketing_potential=high,179,179,1.0,0.5944077615188835,0.5980063661778356
+job + education + marketing_potential,3,job=management | education=tertiary | marketing_potential=high,60,60,1.0,0.5941728440125537,0.626741357952247
+job + preferred_contact + loan_personal + marketing_potential,4,job=retired | preferred_contact=cellular | loan_personal=no | marketing_potential=high,27,27,1.0,0.5934778223407952,0.5853921969479197
+job + marital + preferred_contact + loan_house + loan_personal + marketing_potential,6,job=retired | marital=married | preferred_contact=cellular | loan_house=no | loan_personal=no | marketing_potential=high,19,19,1.0,0.5916541344233517,0.5677441158257192
+job + preferred_contact + loan_house + marketing_potential,4,job=retired | preferred_contact=cellular | loan_house=no | marketing_potential=high,25,25,1.0,0.5914223053005976,0.5853921969479197
+job + loan_house + loan_personal + marketing_potential,4,job=retired | loan_house=no | loan_personal=no | marketing_potential=high,28,28,1.0,0.5899859561605604,0.580658698841221
+job + marital + education + loan_personal + marketing_potential,5,job=management | marital=married | education=tertiary | loan_personal=no | marketing_potential=high,26,26,1.0,0.5890058372175071,0.6092710488427893
+job + marital + education + preferred_contact + loan_personal + marketing_potential,6,job=management | marital=married | education=tertiary | preferred_contact=cellular | loan_personal=no | marketing_potential=high,26,26,1.0,0.5890058372175071,0.6092710488427893
+marital + education + loan_personal + marketing_potential,4,marital=married | education=tertiary | loan_personal=no | marketing_potential=high,45,45,1.0,0.5889383828968721,0.6017064318108177
+marital + education + preferred_contact + loan_personal + marketing_potential,5,marital=married | education=tertiary | preferred_contact=cellular | loan_personal=no | marketing_potential=high,45,45,1.0,0.5889383828968721,0.6017064318108177
+job + marital + loan_personal + marketing_potential,4,job=management | marital=married | loan_personal=no | marketing_potential=high,28,28,1.0,0.5878842639249056,0.6092710488427893
+job + marital + preferred_contact + loan_personal + marketing_potential,5,job=management | marital=married | preferred_contact=cellular | loan_personal=no | marketing_potential=high,28,28,1.0,0.5878842639249056,0.6092710488427893
+job + marital + preferred_contact + loan_personal + marketing_potential,5,job=retired | marital=married | preferred_contact=cellular | loan_personal=no | marketing_potential=high,22,22,1.0,0.5873269328785049,0.5678475774108027
+job + loan_personal + marketing_potential,3,job=retired | loan_personal=no | marketing_potential=high,31,31,1.0,0.587076475541262,0.5786284931863049
+marital + preferred_contact + marketing_potential,3,marital=single | preferred_contact=cellular | marketing_potential=high,91,91,1.0,0.5853367288111134,0.6096537328575925
+job + loan_house + marketing_potential,3,job=retired | loan_house=no | marketing_potential=high,29,29,1.0,0.5848630058997444,0.5786284931863049
+job + marital + preferred_contact + loan_house + marketing_potential,5,job=retired | marital=married | preferred_contact=cellular | loan_house=no | marketing_potential=high,20,20,1.0,0.5841424476320289,0.5674390569230651
+marital + marketing_potential,2,marital=single | marketing_potential=high,93,93,1.0,0.5839000587210622,0.6096537328575925
+job + marital + loan_house + loan_personal + marketing_potential,5,job=retired | marital=married | loan_house=no | loan_personal=no | marketing_potential=high,23,23,1.0,0.5833433953313623,0.5677441158257192
+job + marital + loan_personal + marketing_potential,4,job=retired | marital=married | loan_personal=no | marketing_potential=high,26,26,1.0,0.5806408485347984,0.5678475774108027
+job + preferred_contact + marketing_potential,3,job=retired | preferred_contact=cellular | marketing_potential=high,29,29,1.0,0.5780821230465456,0.5826889044961371
+job + marital + loan_house + marketing_potential,4,job=retired | marital=married | loan_house=no | marketing_potential=high,24,24,1.0,0.5774299371340929,0.5674390569230651
+marital + preferred_contact + loan_house + loan_personal + marketing_potential,5,marital=married | preferred_contact=cellular | loan_house=no | loan_personal=no | marketing_potential=high,85,85,1.0,0.5773583962216714,0.5832910027894762
+marital + loan_house + loan_personal + marketing_potential,4,marital=married | loan_house=no | loan_personal=no | marketing_potential=high,92,92,1.0,0.572505953307146,0.5805526256329816
+marital + preferred_contact + loan_house + marketing_potential,4,marital=married | preferred_contact=cellular | loan_house=no | marketing_potential=high,89,89,1.0,0.5711683230271213,0.582514779531612
+job + marital + preferred_contact + marketing_potential,4,job=retired | marital=married | preferred_contact=cellular | marketing_potential=high,24,24,1.0,0.5692363703531443,0.5674390569230651
+preferred_contact + loan_personal + marketing_potential,3,preferred_contact=cellular | loan_personal=no | marketing_potential=high,216,216,1.0,0.5691804597497309,0.5831844246289951
+marital + loan_house + marketing_potential,3,marital=married | loan_house=no | marketing_potential=high,96,96,1.0,0.5669694247378038,0.5761452843026158
+marital + education + preferred_contact + loan_house + loan_personal + marketing_potential,6,marital=single | education=secondary | preferred_contact=cellular | loan_house=no | loan_personal=no | marketing_potential=high,17,17,1.0,0.5668069812975665,0.5779780787814873
+job + marital + marketing_potential,3,job=retired | marital=married | marketing_potential=high,28,28,1.0,0.5656122295376111,0.5674390569230651
+job + preferred_contact + loan_personal + marketing_potential,4,job=technician | preferred_contact=cellular | loan_personal=no | marketing_potential=high,42,42,1.0,0.5639746924850624,0.539557905213397
+job + education + preferred_contact + loan_house + loan_personal + marketing_potential,6,job=technician | education=secondary | preferred_contact=cellular | loan_house=no | loan_personal=no | marketing_potential=high,19,19,1.0,0.5627541263724392,0.540110402176035
+marital + education + marketing_potential,3,marital=married | education=tertiary | marketing_potential=high,51,51,1.0,0.5620467121346191,0.599297980493604
+marital + education + preferred_contact + marketing_potential,4,marital=married | education=tertiary | preferred_contact=cellular | marketing_potential=high,51,51,1.0,0.5620467121346191,0.599297980493604
+loan_personal + marketing_potential,2,loan_personal=no | marketing_potential=high,230,230,1.0,0.5614344159641145,0.5788842777057398
+job + education + preferred_contact + loan_personal + marketing_potential,5,job=admin. | education=secondary | preferred_contact=cellular | loan_personal=no | marketing_potential=high,17,17,1.0,0.5604612499219302,0.5969397337069101
+job + education + loan_house + loan_personal + marketing_potential,5,job=technician | education=secondary | loan_house=no | loan_personal=no | marketing_potential=high,20,20,1.0,0.5602063806479738,0.539557905213397
+marital + education + preferred_contact + loan_house + marketing_potential,5,marital=single | education=secondary | preferred_contact=cellular | loan_house=no | marketing_potential=high,19,19,1.0,0.5600219367604442,0.5718297555576622
+job + marital + education + marketing_potential,4,job=management | marital=married | education=tertiary | marketing_potential=high,30,30,1.0,0.5578836732834705,0.6005612375965571
+job + marital + education + preferred_contact + marketing_potential,5,job=management | marital=married | education=tertiary | preferred_contact=cellular | marketing_potential=high,30,30,1.0,0.5578836732834705,0.6005612375965571
+education + preferred_contact + loan_house + loan_personal + marketing_potential,5,education=secondary | preferred_contact=cellular | loan_house=no | loan_personal=no | marketing_potential=high,70,70,1.0,0.5577802426610131,0.566235892590411
+marital + education + loan_house + loan_personal + marketing_potential,5,marital=single | education=secondary | loan_house=no | loan_personal=no | marketing_potential=high,18,18,1.0,0.5572710246415493,0.5654360851094092
+job + preferred_contact + marketing_potential,3,job=technician | preferred_contact=cellular | marketing_potential=high,44,44,1.0,0.5567625425801556,0.5388753531133483
+preferred_contact + marketing_potential,2,preferred_contact=cellular | marketing_potential=high,233,233,1.0,0.5566619995018207,0.570017432579682
+job + education + preferred_contact + loan_house + marketing_potential,5,job=technician | education=secondary | preferred_contact=cellular | loan_house=no | marketing_potential=high,20,20,1.0,0.5562598380954246,0.539557905213397
+job + marital + marketing_potential,3,job=management | marital=married | marketing_potential=high,33,33,1.0,0.5554961211370717,0.5995885532267635
+job + marital + preferred_contact + marketing_potential,4,job=management | marital=married | preferred_contact=cellular | marketing_potential=high,33,33,1.0,0.5554961211370717,0.5995885532267635
+job + education + loan_house + marketing_potential,4,job=technician | education=secondary | loan_house=no | marketing_potential=high,21,21,1.0,0.5541426654186488,0.5390054082507589
+education + loan_house + loan_personal + marketing_potential,4,education=secondary | loan_house=no | loan_personal=no | marketing_potential=high,77,77,1.0,0.5529382562549799,0.564563928430335
+marital + education + loan_house + marketing_potential,4,marital=single | education=secondary | loan_house=no | marketing_potential=high,20,20,1.0,0.5517788279968848,0.5623619234974967
+education + preferred_contact + loan_house + marketing_potential,4,education=secondary | preferred_contact=cellular | loan_house=no | marketing_potential=high,75,75,1.0,0.5516711774309385,0.5626795323394935
+job + marital + education + preferred_contact + loan_house + marketing_potential,6,job=technician | marital=married | education=secondary | preferred_contact=cellular | loan_house=no | marketing_potential=high,15,15,1.0,0.5513339879778177,0.5353178273010107
+job + marital + education + preferred_contact + loan_house + loan_personal + marketing_potential,7,job=technician | marital=married | education=secondary | preferred_contact=cellular | loan_house=no | loan_personal=no | marketing_potential=high,15,15,1.0,0.5513339879778177,0.5353178273010107
+job + loan_personal + marketing_potential,3,job=technician | loan_personal=no | marketing_potential=high,45,45,1.0,0.5505454423819418,0.5387452979759376
+job + marital + education + loan_house + marketing_potential,5,job=technician | marital=married | education=secondary | loan_house=no | marketing_potential=high,16,16,1.0,0.5488630644718998,0.534579151880783
+job + marital + education + loan_house + loan_personal + marketing_potential,6,job=technician | marital=married | education=secondary | loan_house=no | loan_personal=no | marketing_potential=high,16,16,1.0,0.5488630644718998,0.534579151880783
+education + loan_house + marketing_potential,3,education=secondary | loan_house=no | marketing_potential=high,82,82,1.0,0.547645939666865,0.5608256490675891
+marital + preferred_contact + loan_personal + marketing_potential,4,marital=married | preferred_contact=cellular | loan_personal=no | marketing_potential=high,115,115,1.0,0.5457383401305863,0.5508638730532567
+job + marketing_potential,2,job=technician | marketing_potential=high,47,47,1.0,0.5443650999221619,0.5353178273010107
+job + education + preferred_contact + marketing_potential,4,job=admin. | education=secondary | preferred_contact=cellular | marketing_potential=high,20,20,1.0,0.5393988431258139,0.580893725955538
+marital + loan_personal + marketing_potential,3,marital=married | loan_personal=no | marketing_potential=high,127,127,1.0,0.5347226956029483,0.540110402176035
+marital + preferred_contact + marketing_potential,3,marital=married | preferred_contact=cellular | marketing_potential=high,125,125,1.0,0.5323771789978791,0.5353178273010107
+job + education + preferred_contact + loan_personal + marketing_potential,5,job=technician | education=secondary | preferred_contact=cellular | loan_personal=no | marketing_potential=high,26,26,1.0,0.5241184618582334,0.5328778657244592
+education + preferred_contact + loan_personal + marketing_potential,4,education=secondary | preferred_contact=cellular | loan_personal=no | marketing_potential=high,95,95,1.0,0.523855696317567,0.5338404764605553
+marital + marketing_potential,2,marital=married | marketing_potential=high,137,137,1.0,0.5233359167977509,0.531915254988363
+marital + education + preferred_contact + loan_personal + marketing_potential,5,marital=single | education=secondary | preferred_contact=cellular | loan_personal=no | marketing_potential=high,26,26,1.0,0.5233290697036084,0.5104509794825829
+job + education + preferred_contact + marketing_potential,4,job=technician | education=secondary | preferred_contact=cellular | marketing_potential=high,27,27,1.0,0.5207388284868969,0.531915254988363
+marital + education + loan_personal + marketing_potential,4,marital=single | education=secondary | loan_personal=no | marketing_potential=high,27,27,1.0,0.5185820582882621,0.50880738603472
+job + marital + education + preferred_contact + marketing_potential,5,job=technician | marital=married | education=secondary | preferred_contact=cellular | marketing_potential=high,19,19,1.0,0.5170054069319918,0.531915254988363
+job + marital + education + preferred_contact + loan_personal + marketing_potential,6,job=technician | marital=married | education=secondary | preferred_contact=cellular | loan_personal=no | marketing_potential=high,19,19,1.0,0.5170054069319918,0.531915254988363
+education + loan_house + loan_personal + marketing_potential,4,education=tertiary | loan_house=yes | loan_personal=no | marketing_potential=high,24,24,1.0,0.516263129273132,0.5006690104637799
+education + preferred_contact + loan_house + loan_personal + marketing_potential,5,education=tertiary | preferred_contact=cellular | loan_house=yes | loan_personal=no | marketing_potential=high,24,24,1.0,0.516263129273132,0.5006690104637799
+education + preferred_contact + marketing_potential,3,education=secondary | preferred_contact=cellular | marketing_potential=high,103,103,1.0,0.5153823135539378,0.5227026396601624
+education + loan_personal + marketing_potential,3,education=secondary | loan_personal=no | marketing_potential=high,106,106,1.0,0.514468668111746,0.5298123192793863
+marital + education + preferred_contact + marketing_potential,4,marital=married | education=secondary | preferred_contact=cellular | marketing_potential=high,62,62,1.0,0.513728876333323,0.5219949141028184
+job + education + preferred_contact + loan_house + loan_personal + marketing_potential,6,job=management | education=tertiary | preferred_contact=cellular | loan_house=yes | loan_personal=no | marketing_potential=high,13,13,1.0,0.5083128539772974,0.49586759101317973
+education + marketing_potential,2,education=secondary | marketing_potential=high,114,114,1.0,0.5074716312783492,0.5208057622527739
+job + education + loan_personal + marketing_potential,4,job=technician | education=secondary | loan_personal=no | marketing_potential=high,29,29,1.0,0.5074030286596148,0.5203243359600732
+marital + education + marketing_potential,3,marital=single | education=secondary | marketing_potential=high,31,31,1.0,0.5062812757567318,0.499913345159557
+job + education + marketing_potential,3,job=technician | education=secondary | marketing_potential=high,30,30,1.0,0.5049185397320327,0.5194508878968647
+job + marital + education + marketing_potential,4,job=technician | marital=married | education=secondary | marketing_potential=high,22,22,1.0,0.49594138884193667,0.5194508878968647
+job + marital + education + loan_personal + marketing_potential,5,job=technician | marital=married | education=secondary | loan_personal=no | marketing_potential=high,22,22,1.0,0.49594138884193667,0.5194508878968647
+education + preferred_contact + loan_house + marketing_potential,4,education=tertiary | preferred_contact=cellular | loan_house=yes | marketing_potential=high,30,30,1.0,0.4805864114985168,0.49123067438469925
+marital + loan_house + loan_personal + marketing_potential,4,marital=single | loan_house=yes | loan_personal=no | marketing_potential=high,20,20,1.0,0.4769561931560662,0.48292361160960356
+marital + preferred_contact + loan_house + loan_personal + marketing_potential,5,marital=single | preferred_contact=cellular | loan_house=yes | loan_personal=no | marketing_potential=high,20,20,1.0,0.4769561931560662,0.48292361160960356
+education + loan_house + marketing_potential,3,education=tertiary | loan_house=yes | marketing_potential=high,31,31,1.0,0.47673717431485824,0.4896578998977876
+job + education + preferred_contact + loan_house + marketing_potential,5,job=management | education=tertiary | preferred_contact=cellular | loan_house=yes | marketing_potential=high,16,16,1.0,0.4748707291651087,0.49123067438469925
+preferred_contact + loan_house + loan_personal + marketing_potential,4,preferred_contact=cellular | loan_house=yes | loan_personal=no | marketing_potential=high,53,53,1.0,0.46162590033723166,0.463437354333636
+marital + preferred_contact + loan_house + marketing_potential,4,marital=single | preferred_contact=cellular | loan_house=yes | marketing_potential=high,24,24,1.0,0.4574847372003846,0.47077661818871663
+loan_house + loan_personal + marketing_potential,3,loan_house=yes | loan_personal=no | marketing_potential=high,58,58,1.0,0.4486372744657746,0.45819468487573295
+preferred_contact + loan_house + marketing_potential,3,preferred_contact=cellular | loan_house=yes | marketing_potential=high,63,63,1.0,0.4434191069318558,0.45601928205837217
+loan_house + marketing_potential,2,loan_house=yes | marketing_potential=high,69,69,1.0,0.4326297535746908,0.4461861220882485
+marital + loan_house + marketing_potential,3,marital=married | loan_house=yes | marketing_potential=high,41,41,1.0,0.4211696543039689,0.4253305938341373
+job + education + preferred_contact + loan_house + loan_personal,5,job=management | education=(missing) | preferred_contact=cellular | loan_house=no | loan_personal=no,17,17,1.0,0.3149715817892089,0.20593975820257168
+job + marital + education + preferred_contact + loan_personal,5,job=retired | marital=married | education=tertiary | preferred_contact=cellular | loan_personal=no,25,25,1.0,0.30268050525692264,0.1946016441563225
+job + marital + education + preferred_contact + loan_house + loan_personal,6,job=retired | marital=married | education=tertiary | preferred_contact=cellular | loan_house=no | loan_personal=no,20,20,1.0,0.30195733125463026,0.19545451401102837
+job + education + preferred_contact + loan_house + loan_personal,5,job=retired | education=tertiary | preferred_contact=cellular | loan_house=no | loan_personal=no,29,29,1.0,0.2937557027432569,0.2120258060022237
+job + marital + education + preferred_contact + loan_house,5,job=retired | marital=married | education=tertiary | preferred_contact=cellular | loan_house=no,21,21,1.0,0.2931935823818735,0.1946016441563225
+job + marital + education + preferred_contact,4,job=retired | marital=married | education=tertiary | preferred_contact=cellular,27,27,1.0,0.28754699955825413,0.1945491136581985
+job + education + preferred_contact + loan_house,4,job=retired | education=tertiary | preferred_contact=cellular | loan_house=no,31,31,1.0,0.2836955666967107,0.21137364103764786
+job + marital + education + preferred_contact + loan_house + loan_personal,6,job=admin. | marital=single | education=tertiary | preferred_contact=cellular | loan_house=no | loan_personal=no,18,18,1.0,0.27903727249495724,0.2304946341793871
+job + marital + education + loan_house + loan_personal,5,job=admin. | marital=single | education=tertiary | loan_house=no | loan_personal=no,19,19,1.0,0.2775476731671955,0.23057800379870438
+job + education + preferred_contact + loan_personal,4,job=retired | education=tertiary | preferred_contact=cellular | loan_personal=no,39,39,1.0,0.2768319658446364,0.1998544313448115
+job + education + preferred_contact + loan_house + loan_personal,5,job=admin. | education=tertiary | preferred_contact=cellular | loan_house=no | loan_personal=no,27,27,1.0,0.2743711343739998,0.22911819927256272
+job + education + loan_house + loan_personal,4,job=admin. | education=tertiary | loan_house=no | loan_personal=no,29,29,1.0,0.27032838460071834,0.22911819927256272
+job + marital + education + preferred_contact + loan_house + loan_personal,6,job=retired | marital=divorced | education=secondary | preferred_contact=cellular | loan_house=no | loan_personal=no,19,19,1.0,0.2682044810743297,0.17923392720514802
+job + education + preferred_contact,3,job=retired | education=tertiary | preferred_contact=cellular,42,42,1.0,0.2654983716120823,0.19545451401102837
+job + education + loan_house + loan_personal,4,job=retired | education=tertiary | loan_house=no | loan_personal=no,38,38,1.0,0.2627043145655965,0.1980809076052729
+job + marital + education + preferred_contact + loan_personal,5,job=unemployed | marital=single | education=tertiary | preferred_contact=cellular | loan_personal=no,17,17,1.0,0.26243328625330475,0.15205996206242284
+job + marital + preferred_contact + loan_house + loan_personal,5,job=management | marital=single | preferred_contact=cellular | loan_house=no | loan_personal=no,194,194,1.0,0.26085213591475725,0.19585742487085459
+job + marital + education + loan_house + loan_personal,5,job=retired | marital=married | education=tertiary | loan_house=no | loan_personal=no,28,28,1.0,0.260378939352204,0.19266439517640171
+job + marital + education + preferred_contact + loan_house,5,job=retired | marital=divorced | education=secondary | preferred_contact=cellular | loan_house=no,20,20,1.0,0.2597908705559967,0.1788543466923443
+marital + education + preferred_contact + loan_house + loan_personal,5,marital=single | education=(missing) | preferred_contact=cellular | loan_house=no | loan_personal=no,41,41,1.0,0.2591595947901337,0.20255830470977498
+job + education + loan_house,3,job=retired | education=tertiary | loan_house=no,40,40,1.0,0.25646027853840614,0.19545451401102837
+marital + education + preferred_contact + loan_house,4,marital=single | education=(missing) | preferred_contact=cellular | loan_house=no,42,42,1.0,0.25615551259749425,0.20241025340215185
+job + marital + education + loan_house,4,job=retired | marital=married | education=tertiary | loan_house=no,29,29,1.0,0.25546651402718795,0.1925541174005743
+marital + education + preferred_contact + loan_house + loan_personal,5,marital=single | education=tertiary | preferred_contact=cellular | loan_house=no | loan_personal=no,341,341,1.0,0.2548396879394897,0.19383424067733454
+job + marital + education + loan_personal,4,job=retired | marital=married | education=tertiary | loan_personal=no,35,35,1.0,0.2544227298707118,0.1915869709389163
+job + marital + education + preferred_contact + loan_house,5,job=admin. | marital=single | education=tertiary | preferred_contact=cellular | loan_house=no,22,22,1.0,0.25381291968358816,0.22832469541888595
+job + education + preferred_contact + loan_personal,4,job=management | education=(missing) | preferred_contact=cellular | loan_personal=no,26,26,1.0,0.25374947769153616,0.18738903844307891
+job + education + preferred_contact + loan_house,4,job=admin. | education=tertiary | preferred_contact=cellular | loan_house=no,33,33,1.0,0.2509744171101864,0.224403728006608
+education + preferred_contact + loan_house + loan_personal,4,education=(missing) | preferred_contact=cellular | loan_house=no | loan_personal=no,99,99,1.0,0.24897790977217216,0.20349970485054533
+job + marital + education + loan_house + loan_personal,5,job=management | marital=single | education=tertiary | loan_house=no | loan_personal=no,200,200,1.0,0.24647062834424674,0.19409591061416592
+job + marital + education,3,job=retired | marital=married | education=tertiary,37,37,1.0,0.24598788924661377,0.18904959870684823
+job + marital + preferred_contact + loan_house,4,job=management | marital=single | preferred_contact=cellular | loan_house=no,220,220,1.0,0.24580881498275362,0.19314612191988648
+marital + education + preferred_contact + loan_house,4,marital=single | education=tertiary | preferred_contact=cellular | loan_house=no,373,373,1.0,0.2445124774910961,0.19153190672199435
+job + education + preferred_contact,3,job=management | education=(missing) | preferred_contact=cellular,28,28,1.0,0.2442412693059915,0.1818790883124473
+job + marital + loan_house + loan_personal,4,job=management | marital=single | loan_house=no | loan_personal=no,221,221,1.0,0.24291913438987756,0.1937974941352399
+job + education + loan_house + loan_personal,4,job=management | education=(missing) | loan_house=no | loan_personal=no,26,26,1.0,0.2422628828179503,0.18738903844307891
+job + marital + education + preferred_contact + loan_personal,5,job=retired | marital=divorced | education=secondary | preferred_contact=cellular | loan_personal=no,23,23,1.0,0.24157160257225793,0.17296043340477818
+marital + education + loan_house + loan_personal,4,marital=single | education=tertiary | loan_house=no | loan_personal=no,385,385,1.0,0.24076524305926017,0.1915394969758867
+job + education + loan_house,3,job=admin. | education=tertiary | loan_house=no,37,37,1.0,0.23859667145615218,0.22148602686992538
+job + marital + education + loan_house,4,job=admin. | marital=single | education=tertiary | loan_house=no,25,25,1.0,0.2379615068890026,0.22796871168244628
+job + education + preferred_contact + loan_house,4,job=unemployed | education=tertiary | preferred_contact=cellular | loan_house=no,23,23,1.0,0.23775962030389672,0.14910345426788163
+education + preferred_contact + loan_house,3,education=(missing) | preferred_contact=cellular | loan_house=no,109,109,1.0,0.23699810472893623,0.20226220209452872
+job + marital + education + loan_house,4,job=management | marital=single | education=tertiary | loan_house=no,224,224,1.0,0.2341380960371918,0.19193228609653884
+job + education + loan_personal,3,job=retired | education=tertiary | loan_personal=no,54,54,1.0,0.23384565134078608,0.19207054416974528
+job + education + loan_house,3,job=management | education=(missing) | loan_house=no,28,28,1.0,0.23357514549480465,0.18092384434135217
+job + marital + preferred_contact + loan_house + loan_personal,5,job=self-employed | marital=single | preferred_contact=cellular | loan_house=no | loan_personal=no,22,22,1.0,0.23249191162518582,0.15060643718843078
+job + marital + preferred_contact + loan_house + loan_personal,5,job=retired | marital=divorced | preferred_contact=cellular | loan_house=no | loan_personal=no,37,37,1.0,0.23226901650681492,0.17847476617954056
+marital + education + preferred_contact,3,marital=single | education=(missing) | preferred_contact=cellular,59,59,1.0,0.23136409374014055,0.18959293859228507
+marital + education + preferred_contact + loan_personal,4,marital=single | education=(missing) | preferred_contact=cellular | loan_personal=no,56,56,1.0,0.23110236378201438,0.1930887402221158
+job + education + loan_house + loan_personal + marketing_potential,5,job=management | education=tertiary | loan_house=no | loan_personal=no | marketing_potential=low,58,58,1.0,0.2309233892078518,0.22239651534974247
+marital + education + loan_house,3,marital=single | education=tertiary | loan_house=no,422,422,1.0,0.23044282404249627,0.18908397314607944
+job + marital + loan_house,3,job=management | marital=single | loan_house=no,249,249,1.0,0.22991201358358215,0.19123315691075465
+job + marital + education + preferred_contact,4,job=retired | marital=divorced | education=secondary | preferred_contact=cellular,25,25,1.0,0.22852312850393294,0.1713537930534893
+marital + education + preferred_contact + loan_house + loan_personal,5,marital=married | education=(missing) | preferred_contact=cellular | loan_house=no | loan_personal=no,50,50,1.0,0.2245336734440804,0.2019197975140458
+job + marital + preferred_contact + loan_house,4,job=retired | marital=divorced | preferred_contact=cellular | loan_house=no,40,40,1.0,0.22334062422811382,0.17215711322913374
+education + preferred_contact + loan_house + loan_personal,4,education=tertiary | preferred_contact=cellular | loan_house=no | loan_personal=no,865,865,1.0,0.2225725277908164,0.18163437235048974
+job + education + loan_house + marketing_potential,4,job=management | education=tertiary | loan_house=no | marketing_potential=low,63,63,1.0,0.22212426597195367,0.21879833449521444
+marital + education + loan_house + loan_personal,4,marital=single | education=(missing) | loan_house=no | loan_personal=no,57,57,1.0,0.2218288544815708,0.18445849727689664
+job + education,2,job=retired | education=tertiary,59,59,1.0,0.22121755069573054,0.18856756308148626
+marital + education + loan_house,3,marital=single | education=(missing) | loan_house=no,58,58,1.0,0.22029711807153127,0.18415206836374132
+marital + preferred_contact + loan_house + loan_personal,4,marital=single | preferred_contact=cellular | loan_house=no | loan_personal=no,692,692,1.0,0.21769738762342608,0.1818056329394799
+job + preferred_contact + loan_house + loan_personal,4,job=management | preferred_contact=cellular | loan_house=no | loan_personal=no,589,589,1.0,0.2170689674125425,0.18109852268840176
+job + marital + preferred_contact + loan_personal,4,job=management | marital=single | preferred_contact=cellular | loan_personal=no,317,317,1.0,0.21556817821401603,0.18524519070340478
+job + preferred_contact + loan_house + loan_personal,4,job=retired | preferred_contact=cellular | loan_house=no | loan_personal=no,182,182,1.0,0.21506423494105079,0.15998057484739653
+marital + education + preferred_contact + loan_personal,4,marital=single | education=tertiary | preferred_contact=cellular | loan_personal=no,546,546,1.0,0.21450533661749038,0.18322460700089016
+job + marital + education + preferred_contact,4,job=admin. | marital=single | education=tertiary | preferred_contact=cellular,35,35,1.0,0.21353984751714034,0.21541640318900773
+education + preferred_contact + loan_personal,3,education=(missing) | preferred_contact=cellular | loan_personal=no,146,146,1.0,0.21323325885821168,0.17924635904351288
+education + preferred_contact + loan_house,3,education=tertiary | preferred_contact=cellular | loan_house=no,959,959,1.0,0.21237699514993824,0.17630339647554583
+job + education + preferred_contact + loan_personal,4,job=unemployed | education=tertiary | preferred_contact=cellular | loan_personal=no,31,31,1.0,0.21195266244192815,0.13581699266701128
+marital + education + preferred_contact + loan_house,4,marital=married | education=(missing) | preferred_contact=cellular | loan_house=no,58,58,1.0,0.2099587402623022,0.19499351300780632
+job + preferred_contact + loan_house + loan_personal,4,job=admin. | preferred_contact=cellular | loan_house=no | loan_personal=no,196,196,1.0,0.20929702058225746,0.16948504440327
+job + marital + preferred_contact + loan_house,4,job=admin. | marital=single | preferred_contact=cellular | loan_house=no,96,96,1.0,0.2081688145973725,0.17200302012624258
+education + preferred_contact,2,education=(missing) | preferred_contact=cellular,159,159,1.0,0.20727552206972608,0.17558368691775308
+job + marital + preferred_contact + loan_personal,4,job=retired | marital=married | preferred_contact=cellular | loan_personal=no,155,155,1.0,0.20703907122299192,0.144431272855528
+job + marital + preferred_contact + loan_personal,4,job=retired | marital=divorced | preferred_contact=cellular | loan_personal=no,48,48,1.0,0.20683305661286977,0.16340702694907325
+job + preferred_contact + loan_house,3,job=retired | preferred_contact=cellular | loan_house=no,201,201,1.0,0.20593708962052482,0.14887293666558646
+job + preferred_contact + loan_house,3,job=management | preferred_contact=cellular | loan_house=no,666,666,1.0,0.20568116466911734,0.17423072103287102
+job + preferred_contact + loan_personal,3,job=retired | preferred_contact=cellular | loan_personal=no,213,213,1.0,0.20562246345246382,0.14765748752730395
+marital + education + preferred_contact,3,marital=single | education=tertiary | preferred_contact=cellular,604,604,1.0,0.20483029692018456,0.17808186817410854
+job + marital + loan_house + loan_personal,4,job=retired | marital=divorced | loan_house=no | loan_personal=no,51,51,1.0,0.20446270646908446,0.1689960265088957
+job + education + preferred_contact,3,job=student | education=tertiary | preferred_contact=cellular,43,43,1.0,0.20424733914264742,0.1517597452790793
+education + loan_house + loan_personal,3,education=tertiary | loan_house=no | loan_personal=no,1036,1036,1.0,0.20409531566235095,0.17483506841004384
+job + marital + education + loan_personal,4,job=retired | marital=divorced | education=secondary | loan_personal=no,32,32,1.0,0.20403238640996166,0.16731351705342873
+marital + preferred_contact + loan_house,3,marital=single | preferred_contact=cellular | loan_house=no,804,804,1.0,0.2031022584907633,0.1700534575391971
+job + marital + education + loan_personal,4,job=student | marital=single | education=tertiary | loan_personal=no,42,42,1.0,0.2026967358664771,0.1516903544080907
+job + marital + preferred_contact,3,job=management | marital=single | preferred_contact=cellular,364,364,1.0,0.2016417978357086,0.1827615420118932
+job + marital + loan_house + loan_personal,4,job=admin. | marital=single | loan_house=no | loan_personal=no,98,98,1.0,0.20049177048273698,0.17271759973075546
+job + marital + education,3,job=student | marital=single | education=tertiary,43,43,1.0,0.2001203474930344,0.15162096353710214
+job + marital + preferred_contact,3,job=retired | marital=divorced | preferred_contact=cellular,52,52,1.0,0.19855109920228603,0.16163728085504905
+preferred_contact + loan_house + loan_personal + marketing_potential,4,preferred_contact=cellular | loan_house=no | loan_personal=no | marketing_potential=low,192,192,1.0,0.19732673151619948,0.19464661552111773
+job + marital + education,3,job=retired | marital=divorced | education=secondary,34,34,1.0,0.1966461093692695,0.1651851049565688
+job + loan_house + loan_personal,3,job=management | loan_house=no | loan_personal=no,724,724,1.0,0.19507475480127254,0.17068441926381722
+marital + education + preferred_contact + loan_personal,4,marital=married | education=(missing) | preferred_contact=cellular | loan_personal=no,73,73,1.0,0.19494083404381032,0.17558368691775308
+marital + loan_house + loan_personal,3,marital=single | loan_house=no | loan_personal=no,860,860,1.0,0.19458632707231932,0.1680580533754635
+education + loan_house,2,education=tertiary | loan_house=no,1151,1151,1.0,0.19438443852494178,0.1671261661095118
+education + loan_house + loan_personal,3,education=(missing) | loan_house=no | loan_personal=no,171,171,1.0,0.19412580380954408,0.17698673036689258
+job + marital + loan_house,3,job=retired | marital=divorced | loan_house=no,56,56,1.0,0.19404450115341038,0.16340702694907325
+job + marital + preferred_contact,3,job=retired | marital=married | preferred_contact=cellular,178,178,1.0,0.19323366149106555,0.1393551956337541
+loan_house + loan_personal + marketing_potential,3,loan_house=no | loan_personal=no | marketing_potential=low,216,216,1.0,0.19284873789027993,0.18898005311739496
+job + preferred_contact,2,job=retired | preferred_contact=cellular,243,243,1.0,0.19280993363821702,0.14361249403595297
+education + preferred_contact + loan_personal + marketing_potential,4,education=(missing) | preferred_contact=cellular | loan_personal=no | marketing_potential=low,26,26,1.0,0.19266904679546754,0.1844282066211228
+job + education + loan_personal,3,job=student | education=tertiary | loan_personal=no,47,47,1.0,0.19206050786019474,0.15162096353710214
+education + loan_personal + marketing_potential,3,education=(missing) | loan_personal=no | marketing_potential=low,32,32,1.0,0.19144398111541258,0.19490446881782902
+preferred_contact + loan_house + marketing_potential,3,preferred_contact=cellular | loan_house=no | marketing_potential=low,210,210,1.0,0.1913095138720882,0.18751429352212767
+marital + preferred_contact + loan_house + loan_personal,4,marital=divorced | preferred_contact=cellular | loan_house=no | loan_personal=no,224,224,1.0,0.19088397430596668,0.16877301900015246
+job + preferred_contact + loan_house,3,job=student | preferred_contact=cellular | loan_house=no,109,109,1.0,0.1904920811291369,0.14851561564342383
+job + education,2,job=student | education=tertiary,48,48,1.0,0.1899740813591165,0.1515761268271178
+job + loan_house + loan_personal,3,job=retired | loan_house=no | loan_personal=no,268,268,1.0,0.1899389711828944,0.1449602700647776
+education + loan_house,2,education=(missing) | loan_house=no,182,182,1.0,0.18916844936398233,0.17501570899434282
+preferred_contact + loan_house + loan_personal,3,preferred_contact=cellular | loan_house=no | loan_personal=no,2148,2148,1.0,0.1886639204920992,0.15642158093634356
+education + preferred_contact + marketing_potential,3,education=(missing) | preferred_contact=cellular | marketing_potential=low,27,27,1.0,0.1879409654920177,0.1792634746499605
+loan_house + marketing_potential,2,loan_house=no | marketing_potential=low,239,239,1.0,0.18604737329704163,0.18374464333582505
+marital + education + preferred_contact,3,marital=married | education=(missing) | preferred_contact=cellular,82,82,1.0,0.18593432926597542,0.165181161678539
+education + preferred_contact + loan_personal,3,education=tertiary | preferred_contact=cellular | loan_personal=no,1466,1466,1.0,0.18525555105655017,0.15701400318855835
+job + loan_house,2,job=management | loan_house=no,817,817,1.0,0.18510572839283934,0.1645296926803265
+marital + education + loan_house + loan_personal,4,marital=divorced | education=tertiary | loan_house=no | loan_personal=no,94,94,1.0,0.18454485792607503,0.18278787932577245
+job + education + loan_personal,3,job=management | education=(missing) | loan_personal=no,44,44,1.0,0.1836737584331927,0.14826330834564533
+job + marital + loan_house,3,job=self-employed | marital=single | loan_house=no,38,38,1.0,0.18358584252556817,0.1455483447946948
+marital + education + loan_personal,3,marital=single | education=tertiary | loan_personal=no,707,707,1.0,0.18282073623803913,0.15354915781740414
+job + loan_house + loan_personal,3,job=admin. | loan_house=no | loan_personal=no,265,265,1.0,0.1827159906561685,0.1646830709998157
+education + preferred_contact + loan_house,3,education=(missing) | preferred_contact=telephone | loan_house=no,28,28,1.0,0.1825568458359917,0.17443342450060456
+education + preferred_contact + loan_house + loan_personal,4,education=(missing) | preferred_contact=telephone | loan_house=no | loan_personal=no,28,28,1.0,0.1825568458359917,0.17443342450060456
+marital + education + loan_personal,3,marital=single | education=(missing) | loan_personal=no,89,89,1.0,0.1822846499406359,0.1689849544011619
+job + education + loan_personal + marketing_potential,4,job=management | education=tertiary | loan_personal=no | marketing_potential=low,146,146,1.0,0.1820893716021363,0.15461856113144617
+marital + loan_house,2,marital=single | loan_house=no,995,995,1.0,0.18206890037105292,0.1557183661482777
+job + education,2,job=management | education=(missing),46,46,1.0,0.18093292373148478,0.13777487382722786
+marital + education,2,marital=single | education=(missing),94,94,1.0,0.18080217058091314,0.16795147790434212
+job + marital + loan_personal,3,job=management | marital=single | loan_personal=no,421,421,1.0,0.179658783253675,0.1552102800145792
+job + loan_house,2,job=retired | loan_house=no,300,300,1.0,0.1795084264795959,0.1424734859841275
+job + preferred_contact + loan_personal,3,job=management | preferred_contact=cellular | loan_personal=no,1026,1026,1.0,0.17852510887311906,0.15622222494495502
+job + loan_house,2,job=student | loan_house=no,128,128,1.0,0.1783617849612465,0.14465061099779755
+marital + education + loan_personal,3,marital=divorced | education=(missing) | loan_personal=no,29,29,1.0,0.17821967276561998,0.1314991986400278
+job + marital + loan_personal,3,job=retired | marital=divorced | loan_personal=no,70,70,1.0,0.17594045818181478,0.14973294124472386
+preferred_contact + loan_house,2,preferred_contact=cellular | loan_house=no,2507,2507,1.0,0.17550679331078192,0.14753615528382355
+job + preferred_contact + loan_personal,3,job=student | preferred_contact=cellular | loan_personal=no,131,131,1.0,0.175158317135697,0.1418496943007253
+marital + preferred_contact + loan_house,3,marital=divorced | preferred_contact=cellular | loan_house=no,271,271,1.0,0.17455988643370438,0.14942303904460946
+marital + preferred_contact + loan_personal,3,marital=single | preferred_contact=cellular | loan_personal=no,1270,1270,1.0,0.17380962169746877,0.14214571802043252
+marital + education,2,marital=single | education=tertiary,786,786,1.0,0.1737052782346781,0.1455483447946948
+marital + education + loan_house,3,marital=married | education=tertiary | loan_house=no,618,618,1.0,0.17368605275012763,0.15873537296268878
+job + preferred_contact,2,job=student | preferred_contact=cellular,134,134,1.0,0.1728985959451338,0.13429282645729357
+job + education + marketing_potential,3,job=management | education=tertiary | marketing_potential=low,164,164,1.0,0.17207222795164556,0.14619164575691984
+marital + preferred_contact + loan_house + loan_personal,4,marital=married | preferred_contact=cellular | loan_house=no | loan_personal=no,1232,1232,1.0,0.17195251520867022,0.1448862530500365
+education + preferred_contact,2,education=tertiary | preferred_contact=cellular,1711,1711,1.0,0.17192896611909095,0.15162096353710214
+education + preferred_contact + loan_personal,3,education=(missing) | preferred_contact=telephone | loan_personal=no,38,38,1.0,0.17144138262803735,0.1690466284901931
+job + marital + loan_personal,3,job=retired | marital=married | loan_personal=no,249,249,1.0,0.17099451415737246,0.13700102773790673
+job + loan_personal,2,job=retired | loan_personal=no,337,337,1.0,0.17003215835145724,0.13732932370478051
+job + marital,2,job=management | marital=single,477,477,1.0,0.16971373748623553,0.13916984924591122
+job + marital,2,job=retired | marital=divorced,77,77,1.0,0.1668572514712115,0.1402357587279149
+marital + preferred_contact + loan_personal + marketing_potential,4,marital=single | preferred_contact=cellular | loan_personal=no | marketing_potential=low,195,195,1.0,0.16671998538316807,0.14412655852931358
+education + marketing_potential,2,education=tertiary | marketing_potential=low,246,246,1.0,0.16660143880280523,0.1460821415935777
+education + preferred_contact,2,education=(missing) | preferred_contact=telephone,40,40,1.0,0.16598867987565255,0.16437570617398012
+job + preferred_contact,2,job=management | preferred_contact=cellular,1207,1207,1.0,0.16547189594872175,0.1457861435912076
+marital + loan_personal + marketing_potential,3,marital=single | loan_personal=no | marketing_potential=low,213,213,1.0,0.16470093320355123,0.14323644895546134
+job + marketing_potential,2,job=management | marketing_potential=low,190,190,1.0,0.1635238173804629,0.14419477747796589
+marital + preferred_contact,2,marital=single | preferred_contact=cellular,1471,1471,1.0,0.16339663641226038,0.13242389062199245
+loan_house + loan_personal,2,loan_house=no | loan_personal=no,2931,2931,1.0,0.16159576416243657,0.14252099289078946
+marital + preferred_contact + loan_house,3,marital=single | preferred_contact=telephone | loan_house=no,59,59,1.0,0.16107042449999076,0.1453710802209531
+education + loan_personal,2,education=tertiary | loan_personal=no,1926,1926,1.0,0.1583635370710579,0.14291860895797412
+marital + preferred_contact + marketing_potential,3,marital=single | preferred_contact=cellular | marketing_potential=low,221,221,1.0,0.1583198128759292,0.1417350672299953
+marital + marketing_potential,2,marital=single | marketing_potential=low,241,241,1.0,0.1567199749337002,0.14126093449294444
+job + marital,2,job=student | marital=single,159,159,1.0,0.15656644359131225,0.11887287008356798
+preferred_contact + loan_house + loan_personal,3,preferred_contact=telephone | loan_house=no | loan_personal=no,249,249,1.0,0.15540732708152089,0.14023003467377873
+job + loan_personal,2,job=student | loan_personal=no,164,164,1.0,0.15540619199583228,0.118808414755287
+marital + loan_house + loan_personal,3,marital=divorced | loan_house=no | loan_personal=no,321,321,1.0,0.1548593344590883,0.1417260709809533
+education + loan_personal,2,education=(missing) | loan_personal=no,294,294,1.0,0.150723490781837,0.13596197999026777
+job + loan_personal,2,job=management | loan_personal=no,1382,1382,1.0,0.1502236531470614,0.1310469141231443
+education + loan_house + loan_personal,3,education=secondary | loan_house=no | loan_personal=no,1280,1280,1.0,0.14939370373800512,0.13483330441186075
+preferred_contact + loan_personal,2,preferred_contact=cellular | loan_personal=no,4168,4168,1.0,0.14789572190798123,0.11877241859393589
+marital + loan_house + loan_personal,3,marital=married | loan_house=no | loan_personal=no,1750,1750,1.0,0.14661891263802262,0.13077528997163718
+marital + preferred_contact + loan_personal,3,marital=divorced | preferred_contact=cellular | loan_personal=no,485,485,1.0,0.14593667499444418,0.12817715549569808
+preferred_contact + loan_house,2,preferred_contact=telephone | loan_house=no,288,288,1.0,0.14461584588425547,0.13534126800916757
+marital + loan_house,2,marital=divorced | loan_house=no,380,380,1.0,0.1443004635821196,0.13590879122972127
+preferred_contact + loan_personal + marketing_potential,3,preferred_contact=cellular | loan_personal=no | marketing_potential=low,639,639,1.0,0.1392547345880886,0.12307451172379077
+marital + loan_personal,2,marital=single | loan_personal=no,1845,1845,1.0,0.13866091569443223,0.11382260411059017
+education + loan_house,2,education=secondary | loan_house=no,1551,1551,1.0,0.13787955503668173,0.12204984328362635
+marital + preferred_contact + loan_personal,3,marital=single | preferred_contact=telephone | loan_personal=no,101,101,1.0,0.13759159123859807,0.12703571914002046
+loan_personal + marketing_potential,2,loan_personal=no | marketing_potential=low,707,707,1.0,0.13746645444069144,0.12299606999019469
+marital + loan_house,2,marital=married | loan_house=no,2039,2039,1.0,0.13633367476485836,0.11956089810052459
+marital + preferred_contact,2,marital=single | preferred_contact=telephone,106,106,1.0,0.1356629329248974,0.12508276700078053
+marital + preferred_contact,2,marital=divorced | preferred_contact=cellular,591,591,1.0,0.13373123548952884,0.11398298899088703
+marital + education,2,marital=married | education=tertiary,1206,1206,1.0,0.13296673558386013,0.11071814128538537
+preferred_contact + loan_personal,2,preferred_contact=telephone | loan_personal=no,421,421,1.0,0.1291412326887366,0.11382260411059017
+preferred_contact + marketing_potential,2,preferred_contact=cellular | marketing_potential=low,758,758,1.0,0.1289105177845873,0.11358482007187874
+preferred_contact + loan_personal + marketing_potential,3,preferred_contact=telephone | loan_personal=no | marketing_potential=low,63,63,1.0,0.12628441627915932,0.1275504400108365
+preferred_contact + marketing_potential,2,preferred_contact=telephone | marketing_potential=low,70,70,1.0,0.12302107654771542,0.12225776322283793
+marital + loan_personal,2,marital=divorced | loan_personal=no,749,749,1.0,0.1128318724871858,0.09972115926448205
+marital + loan_personal,2,marital=married | loan_personal=no,3847,3847,1.0,0.10472423671319742,0.08681816092665633
+preferred_contact + loan_house + loan_personal,3,preferred_contact=cellular | loan_house=yes | loan_personal=no,2020,2020,1.0,0.10454419192843395,0.09161154122650997
+education + loan_personal,2,education=secondary | loan_personal=no,3202,3202,1.0,0.10257890708182986,0.08589844946340772
+preferred_contact + loan_house,2,preferred_contact=cellular | loan_house=yes,2492,2492,1.0,0.0961181119427903,0.08445623349999695
+loan_personal + marketing_potential,2,loan_personal=no | marketing_potential=unknown,5504,5504,1.0,0.09391277282403433,0.0858591847854028
+loan_house + loan_personal,2,loan_house=no | loan_personal=yes,483,483,1.0,0.08351948264150655,0.08130591781617628
+loan_house + loan_personal,2,loan_house=yes | loan_personal=no,3510,3510,1.0,0.07680268257113919,0.07067566258981964
+preferred_contact + loan_personal,2,preferred_contact=cellular | loan_personal=yes,831,831,1.0,0.07592358228531652,0.06309211735153755
